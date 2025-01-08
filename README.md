@@ -1,6 +1,6 @@
 
 # **CodexClient**  
-*A Harmul, Fun, and Educational Minecraft cpvp Mod*
+*A Harmful Injectable Cpvp/sword Client*
 
 ---
 
