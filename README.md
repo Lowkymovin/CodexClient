@@ -50,10 +50,10 @@ Ideal for players who want to stay under the radar while still gaining efficienc
 ## **How to Install**  
 
 1. **Download CodexClient.exe**
-2. 
-3. **Click the verison you would like to play on with this injectable client** 
+ 
+2. **Click the verison you would like to play on with this injectable client** 
 
-4. **Go to minecraft laucher and click Codexclient and have fun!.**  
+3. **Go to minecraft laucher and click Codexclient and have fun!.**  
    - Start Minecraft, load your world, and enjoy the fun of CodexClient!  
 
 ## **Planned Features**  
