@@ -20,9 +20,10 @@ We strongly discourage the use of real hacked clients and encourage fair play in
 - **Fake Alerts**: Popups like "Hack Detected!" or "You're too OP!" appear randomly.  
 - **Fake Ban Screen**: A humorous ban screen that only the user sees.  
 
---- **Now for the real shit CPvP Features
-⚔️ Advanced CPvP Features
-Auto Double Tap (DTap)
+    **Now for the real shit CPvP Features**
+      ⚔️ **Advanced CPvP Features**
+
+**Auto Double Tap (DTap)
 Automatically places and detonates End Crystals for maximum efficiency in combat.
 Smart delay to avoid detection in casual or "legit" environments.**
 
