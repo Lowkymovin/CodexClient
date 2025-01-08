@@ -20,10 +20,6 @@ We strongly discourage the use of real hacked clients and encourage fair play in
 - **Fake Alerts**: Popups like "Hack Detected!" or "You're too OP!" appear randomly.  
 - **Fake Ban Screen**: A humorous ban screen that only the user sees.  
 
-### 📚 **Educational Additions**  
-- A built-in tutorial explaining how hacked clients work and why they harm online communities.  
-- Promotes fair play and ethical gaming practices.  
-
 --- **Now for the real shit CPvP Features
 ⚔️ Advanced CPvP Features
 Auto Double Tap (DTap)
